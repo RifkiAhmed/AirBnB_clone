@@ -81,3 +81,8 @@ article h2 {
 .information .number_bathrooms::before {
     content: url("../images/bathrooms.png");
 }
+
+footer {
+    position: relative;
+    bottom: 0px;
+}
